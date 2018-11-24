@@ -4,7 +4,7 @@ This machine was designed and created with two class mate for my highschool fina
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zr9PUWKxgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 French version :
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZRQ8ewBXXp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRQ8ewBXXp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Working principle
 

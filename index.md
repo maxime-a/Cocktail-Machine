@@ -1,39 +1,13 @@
-## Welcome to GitHub Pages
+## The Coktail Machine
 
-You can use the [editor on GitHub](https://github.com/maxime-a/maxime-a.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This machine was designed and created for my highschool final exam, moreover we have participated to engineering contest and we have won two prices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zr9PUWKxgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
+## Working principle
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maxime-a/maxime-a.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Cocktail Machine is connected via wifi with your smartphone, with the android application you can enter what recipes you want for your cocktails they will be stored in a database.
+To order a Cocktail you just have to hit the vocal recognition button and say the name of your cocktail. 
+The application will search the name in the database and send to the machine the recipes. 
+After, the machine pump the liquids from the bootles in the fridge to the shaker. The liquids will be mixed and a glass will drop to put your cocktail in. The machine will light green , it will mean that your cocktail will be done.
+The apllication on the smartphone will estimate your alcohool level in your blood and warn you if go over the limits to drive.

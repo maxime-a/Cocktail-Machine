@@ -1,6 +1,6 @@
 ## The Coktail Machine
 
-This machine was designed and created for my highschool final exam, moreover we have participated to engineering contest and we have won two prices.
+This machine was designed and created with two class mate for my highschool final exam, moreover we have participated to engineering contest and we have won two prices.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7zr9PUWKxgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

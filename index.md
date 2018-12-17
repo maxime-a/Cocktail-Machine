@@ -108,6 +108,7 @@ String getPage(){
 ## Code for the Arduino Uno
 
 ```C++
+//Maxime EMONIN / Maxime AYMONIN
 //constantes des broches
 const int POMPE[6] = {8,9,10,11,12,13};//liste des pompe doseuses
 

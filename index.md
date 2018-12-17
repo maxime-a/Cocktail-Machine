@@ -14,7 +14,7 @@ The application will search the name in the database and send to the machine the
 After, the machine pump the liquids from the bootles in the fridge to the shaker. The liquids will be mixed and a glass will drop to put your cocktail in. The machine will light green , it will mean that your cocktail will be done.
 The apllication on the smartphone will estimate your alcohool level in your blood and warn you if go over the limits to drive.
 
-## Code for the ESP32
+## Code for the microcontroller ESP32 (wifi communications)
 
 
 '''C++

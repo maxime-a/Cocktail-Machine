@@ -18,7 +18,7 @@ The apllication on the smartphone will estimate your alcohool level in your bloo
 
 ![Code_ESP32](\Code_ESP32.ino)
 
-'''C++
+````C++
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WebServer.h>  //https://github.com/bbx10/WebServer_tng
@@ -101,12 +101,12 @@ String getPage(){
   page += "</body></html>";
   return page;
 }
-'''
+```
 
 
 ## Code for the Arduino Uno
 
-'''C++
+```C++
 //constantes des broches
 const int POMPE[6] = {8,9,10,11,12,13};//liste des pompe doseuses
 
@@ -487,5 +487,5 @@ void loop()
     final = LOW;
   }
 }
-'''
+```
 
